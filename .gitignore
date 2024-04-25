@@ -6,7 +6,8 @@ node_modules/
 
 # Ignore environment configuration files
 .env
-
+.gitignore
+gitignore
 # Ignore log files
 *.log
 
